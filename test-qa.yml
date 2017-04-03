@@ -1,1 +1,4 @@
+server:
+  port: 10086
+
 profile: profile-qa
