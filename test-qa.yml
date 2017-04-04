@@ -1,4 +1,4 @@
 server:
   port: 10087
 
-profile: profile-q
+profile: profile-qa
