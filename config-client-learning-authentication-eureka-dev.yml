@@ -1,0 +1,4 @@
+server:
+  port: 10089
+
+profile: config-client-learning-authentication-eureka
